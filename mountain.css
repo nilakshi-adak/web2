@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #e4f9f5;
+  }
+  div {
+    background-color: #e4f9f5;
+  }
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: "Sacramento", cursive;
+    font-size: 42px;
+  }
+  h2{
+      color: #66bfbf;
+  }
+  h3 {
+    font-family: "Montserrat", sans-serif; 
+    color: #66bfbf;
+  }
+  hr{
+      border: dotted #76e5f8 6px;
+      margin: 100px auto;
+      width: 4%;
+      border-bottom: none;
+  }
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  .title-text{
+      padding-top: 100px; 
+      color: #66bfbf;
+  }
+  .subtitle{
+      font-size: 28px;
+      margin-top: 0;
+  }
+  .underline{
+      text-decoration: underline;
+  }
+  .profile{
+      padding-top: 20px;
+  }
+  .desc{
+      width: 20%;
+      font: bold;
+      margin: 0 auto;
+  }
+  .code-img{
+      float: left;
+      margin-right: 20px;
+      width: 25%;
+  }
+  .skill-row{
+      width: 50%;
+      text-align: left;
+      margin: 100px auto;
+  }
+  .chillies-img{
+      float: right;
+      height: 100px;
+      width: 100px;
+  }
+  .skill-head{
+      text-decoration: underline;
+      font-size: 35px;
+      font-weight: 200;
+  }
+  .btn{
+      background-color: #11cece;
+      padding: 10px 20px 10px 20px;
+      color: #e4f9f5;
+      text-decoration: none;
+      border-radius: 8px;
+  }
+  .btn:hover{
+      background-color: #096363;
+  }
+  .touch{
+      font-size: 40px;
+      font-weight: 100;
+  }
+  .bottom-container{
+      background-color: #11cece;
+      margin-top: 70px;
+      padding: 50px 0 20px;
+  }
+  .contact-me>p{
+      width: 50%;
+      text-align: center;
+      margin-bottom: 50px;
+  }
+  .copyright{
+      margin-bottom: 0px;
+      color: aliceblue;
+      padding: 20px 0;
+  }
+  .footer-link{
+  
+      font-family: monospace;
+  }
+  a{
+      color: #ffffff;
+  }
+  a:hover{
+      color: #76e5f8;
+  }
+  

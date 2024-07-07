@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    margin: 0 auto;
+    width: 10%;
+    font-family: 'sacramento', sans-serif;
+    color:rgb(13, 58, 122)
+    
+}
+
+h2{
+    color: #66bfbf;
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #66bfbf;
+}
+
+div {
+    background-color: #E4F9F5;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.web{
+    text-decoration: underline;
+}
+
+.myphoto{
+    width: 150px;
+    height: 150px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    border: dotted ;
+    border-bottom: none;
+    width: 20px;
+}
+
+.code-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
